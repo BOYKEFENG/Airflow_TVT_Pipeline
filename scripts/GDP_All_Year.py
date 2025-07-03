@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # 1) SETUP
-BEA_API_KEY = "845D0A34-D241-48AE-A721-1C50517AE097"
+BEA_API_KEY = ""
 BASE_URL    = "https://apps.bea.gov/api/data/"
 
 BASE_DIR = os.getenv('AIRFLOW_HOME', '/opt/airflow')
