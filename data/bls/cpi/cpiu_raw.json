@@ -1,0 +1,2176 @@
+{
+  "status": "REQUEST_SUCCEEDED",
+  "responseTime": 115,
+  "message": [
+    "Year range has been reduced to the system-allowed limit of 20 years."
+  ],
+  "Results": {
+    "series": [
+      {
+        "seriesID": "CUUR0000SA0",
+        "data": [
+          {
+            "year": "1932",
+            "period": "M12",
+            "periodName": "December",
+            "value": "13.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1932",
+            "period": "M11",
+            "periodName": "November",
+            "value": "13.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1932",
+            "period": "M10",
+            "periodName": "October",
+            "value": "13.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1932",
+            "period": "M09",
+            "periodName": "September",
+            "value": "13.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1932",
+            "period": "M08",
+            "periodName": "August",
+            "value": "13.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1932",
+            "period": "M07",
+            "periodName": "July",
+            "value": "13.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1932",
+            "period": "M06",
+            "periodName": "June",
+            "value": "13.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1932",
+            "period": "M05",
+            "periodName": "May",
+            "value": "13.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1932",
+            "period": "M04",
+            "periodName": "April",
+            "value": "13.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1932",
+            "period": "M03",
+            "periodName": "March",
+            "value": "14.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1932",
+            "period": "M02",
+            "periodName": "February",
+            "value": "14.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1932",
+            "period": "M01",
+            "periodName": "January",
+            "value": "14.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1931",
+            "period": "M12",
+            "periodName": "December",
+            "value": "14.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1931",
+            "period": "M11",
+            "periodName": "November",
+            "value": "14.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1931",
+            "period": "M10",
+            "periodName": "October",
+            "value": "14.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1931",
+            "period": "M09",
+            "periodName": "September",
+            "value": "15.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1931",
+            "period": "M08",
+            "periodName": "August",
+            "value": "15.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1931",
+            "period": "M07",
+            "periodName": "July",
+            "value": "15.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1931",
+            "period": "M06",
+            "periodName": "June",
+            "value": "15.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1931",
+            "period": "M05",
+            "periodName": "May",
+            "value": "15.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1931",
+            "period": "M04",
+            "periodName": "April",
+            "value": "15.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1931",
+            "period": "M03",
+            "periodName": "March",
+            "value": "15.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1931",
+            "period": "M02",
+            "periodName": "February",
+            "value": "15.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1931",
+            "period": "M01",
+            "periodName": "January",
+            "value": "15.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1930",
+            "period": "M12",
+            "periodName": "December",
+            "value": "16.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1930",
+            "period": "M11",
+            "periodName": "November",
+            "value": "16.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1930",
+            "period": "M10",
+            "periodName": "October",
+            "value": "16.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1930",
+            "period": "M09",
+            "periodName": "September",
+            "value": "16.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1930",
+            "period": "M08",
+            "periodName": "August",
+            "value": "16.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1930",
+            "period": "M07",
+            "periodName": "July",
+            "value": "16.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1930",
+            "period": "M06",
+            "periodName": "June",
+            "value": "16.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1930",
+            "period": "M05",
+            "periodName": "May",
+            "value": "16.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1930",
+            "period": "M04",
+            "periodName": "April",
+            "value": "17.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1930",
+            "period": "M03",
+            "periodName": "March",
+            "value": "16.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1930",
+            "period": "M02",
+            "periodName": "February",
+            "value": "17.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1930",
+            "period": "M01",
+            "periodName": "January",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1929",
+            "period": "M12",
+            "periodName": "December",
+            "value": "17.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1929",
+            "period": "M11",
+            "periodName": "November",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1929",
+            "period": "M10",
+            "periodName": "October",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1929",
+            "period": "M09",
+            "periodName": "September",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1929",
+            "period": "M08",
+            "periodName": "August",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1929",
+            "period": "M07",
+            "periodName": "July",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1929",
+            "period": "M06",
+            "periodName": "June",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1929",
+            "period": "M05",
+            "periodName": "May",
+            "value": "17.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1929",
+            "period": "M04",
+            "periodName": "April",
+            "value": "16.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1929",
+            "period": "M03",
+            "periodName": "March",
+            "value": "17.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1929",
+            "period": "M02",
+            "periodName": "February",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1929",
+            "period": "M01",
+            "periodName": "January",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1928",
+            "period": "M12",
+            "periodName": "December",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1928",
+            "period": "M11",
+            "periodName": "November",
+            "value": "17.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1928",
+            "period": "M10",
+            "periodName": "October",
+            "value": "17.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1928",
+            "period": "M09",
+            "periodName": "September",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1928",
+            "period": "M08",
+            "periodName": "August",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1928",
+            "period": "M07",
+            "periodName": "July",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1928",
+            "period": "M06",
+            "periodName": "June",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1928",
+            "period": "M05",
+            "periodName": "May",
+            "value": "17.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1928",
+            "period": "M04",
+            "periodName": "April",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1928",
+            "period": "M03",
+            "periodName": "March",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1928",
+            "period": "M02",
+            "periodName": "February",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1928",
+            "period": "M01",
+            "periodName": "January",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1927",
+            "period": "M12",
+            "periodName": "December",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1927",
+            "period": "M11",
+            "periodName": "November",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1927",
+            "period": "M10",
+            "periodName": "October",
+            "value": "17.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1927",
+            "period": "M09",
+            "periodName": "September",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1927",
+            "period": "M08",
+            "periodName": "August",
+            "value": "17.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1927",
+            "period": "M07",
+            "periodName": "July",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1927",
+            "period": "M06",
+            "periodName": "June",
+            "value": "17.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1927",
+            "period": "M05",
+            "periodName": "May",
+            "value": "17.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1927",
+            "period": "M04",
+            "periodName": "April",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1927",
+            "period": "M03",
+            "periodName": "March",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1927",
+            "period": "M02",
+            "periodName": "February",
+            "value": "17.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1927",
+            "period": "M01",
+            "periodName": "January",
+            "value": "17.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1926",
+            "period": "M12",
+            "periodName": "December",
+            "value": "17.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1926",
+            "period": "M11",
+            "periodName": "November",
+            "value": "17.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1926",
+            "period": "M10",
+            "periodName": "October",
+            "value": "17.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1926",
+            "period": "M09",
+            "periodName": "September",
+            "value": "17.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1926",
+            "period": "M08",
+            "periodName": "August",
+            "value": "17.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1926",
+            "period": "M07",
+            "periodName": "July",
+            "value": "17.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1926",
+            "period": "M06",
+            "periodName": "June",
+            "value": "17.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1926",
+            "period": "M05",
+            "periodName": "May",
+            "value": "17.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1926",
+            "period": "M04",
+            "periodName": "April",
+            "value": "17.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1926",
+            "period": "M03",
+            "periodName": "March",
+            "value": "17.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1926",
+            "period": "M02",
+            "periodName": "February",
+            "value": "17.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1926",
+            "period": "M01",
+            "periodName": "January",
+            "value": "17.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1925",
+            "period": "M12",
+            "periodName": "December",
+            "value": "17.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1925",
+            "period": "M11",
+            "periodName": "November",
+            "value": "18.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1925",
+            "period": "M10",
+            "periodName": "October",
+            "value": "17.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1925",
+            "period": "M09",
+            "periodName": "September",
+            "value": "17.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1925",
+            "period": "M08",
+            "periodName": "August",
+            "value": "17.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1925",
+            "period": "M07",
+            "periodName": "July",
+            "value": "17.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1925",
+            "period": "M06",
+            "periodName": "June",
+            "value": "17.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1925",
+            "period": "M05",
+            "periodName": "May",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1925",
+            "period": "M04",
+            "periodName": "April",
+            "value": "17.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1925",
+            "period": "M03",
+            "periodName": "March",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1925",
+            "period": "M02",
+            "periodName": "February",
+            "value": "17.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1925",
+            "period": "M01",
+            "periodName": "January",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1924",
+            "period": "M12",
+            "periodName": "December",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1924",
+            "period": "M11",
+            "periodName": "November",
+            "value": "17.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1924",
+            "period": "M10",
+            "periodName": "October",
+            "value": "17.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1924",
+            "period": "M09",
+            "periodName": "September",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1924",
+            "period": "M08",
+            "periodName": "August",
+            "value": "17.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1924",
+            "period": "M07",
+            "periodName": "July",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1924",
+            "period": "M06",
+            "periodName": "June",
+            "value": "17.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1924",
+            "period": "M05",
+            "periodName": "May",
+            "value": "17.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1924",
+            "period": "M04",
+            "periodName": "April",
+            "value": "17.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1924",
+            "period": "M03",
+            "periodName": "March",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1924",
+            "period": "M02",
+            "periodName": "February",
+            "value": "17.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1924",
+            "period": "M01",
+            "periodName": "January",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1923",
+            "period": "M12",
+            "periodName": "December",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1923",
+            "period": "M11",
+            "periodName": "November",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1923",
+            "period": "M10",
+            "periodName": "October",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1923",
+            "period": "M09",
+            "periodName": "September",
+            "value": "17.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1923",
+            "period": "M08",
+            "periodName": "August",
+            "value": "17.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1923",
+            "period": "M07",
+            "periodName": "July",
+            "value": "17.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1923",
+            "period": "M06",
+            "periodName": "June",
+            "value": "17.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1923",
+            "period": "M05",
+            "periodName": "May",
+            "value": "16.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1923",
+            "period": "M04",
+            "periodName": "April",
+            "value": "16.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1923",
+            "period": "M03",
+            "periodName": "March",
+            "value": "16.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1923",
+            "period": "M02",
+            "periodName": "February",
+            "value": "16.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1923",
+            "period": "M01",
+            "periodName": "January",
+            "value": "16.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1922",
+            "period": "M12",
+            "periodName": "December",
+            "value": "16.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1922",
+            "period": "M11",
+            "periodName": "November",
+            "value": "16.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1922",
+            "period": "M10",
+            "periodName": "October",
+            "value": "16.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1922",
+            "period": "M09",
+            "periodName": "September",
+            "value": "16.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1922",
+            "period": "M08",
+            "periodName": "August",
+            "value": "16.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1922",
+            "period": "M07",
+            "periodName": "July",
+            "value": "16.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1922",
+            "period": "M06",
+            "periodName": "June",
+            "value": "16.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1922",
+            "period": "M05",
+            "periodName": "May",
+            "value": "16.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1922",
+            "period": "M04",
+            "periodName": "April",
+            "value": "16.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1922",
+            "period": "M03",
+            "periodName": "March",
+            "value": "16.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1922",
+            "period": "M02",
+            "periodName": "February",
+            "value": "16.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1922",
+            "period": "M01",
+            "periodName": "January",
+            "value": "16.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1921",
+            "period": "M12",
+            "periodName": "December",
+            "value": "17.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1921",
+            "period": "M11",
+            "periodName": "November",
+            "value": "17.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1921",
+            "period": "M10",
+            "periodName": "October",
+            "value": "17.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1921",
+            "period": "M09",
+            "periodName": "September",
+            "value": "17.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1921",
+            "period": "M08",
+            "periodName": "August",
+            "value": "17.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1921",
+            "period": "M07",
+            "periodName": "July",
+            "value": "17.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1921",
+            "period": "M06",
+            "periodName": "June",
+            "value": "17.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1921",
+            "period": "M05",
+            "periodName": "May",
+            "value": "17.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1921",
+            "period": "M04",
+            "periodName": "April",
+            "value": "18.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1921",
+            "period": "M03",
+            "periodName": "March",
+            "value": "18.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1921",
+            "period": "M02",
+            "periodName": "February",
+            "value": "18.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1921",
+            "period": "M01",
+            "periodName": "January",
+            "value": "19.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1920",
+            "period": "M12",
+            "periodName": "December",
+            "value": "19.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1920",
+            "period": "M11",
+            "periodName": "November",
+            "value": "19.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1920",
+            "period": "M10",
+            "periodName": "October",
+            "value": "19.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1920",
+            "period": "M09",
+            "periodName": "September",
+            "value": "20.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1920",
+            "period": "M08",
+            "periodName": "August",
+            "value": "20.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1920",
+            "period": "M07",
+            "periodName": "July",
+            "value": "20.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1920",
+            "period": "M06",
+            "periodName": "June",
+            "value": "20.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1920",
+            "period": "M05",
+            "periodName": "May",
+            "value": "20.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1920",
+            "period": "M04",
+            "periodName": "April",
+            "value": "20.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1920",
+            "period": "M03",
+            "periodName": "March",
+            "value": "19.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1920",
+            "period": "M02",
+            "periodName": "February",
+            "value": "19.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1920",
+            "period": "M01",
+            "periodName": "January",
+            "value": "19.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1919",
+            "period": "M12",
+            "periodName": "December",
+            "value": "18.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1919",
+            "period": "M11",
+            "periodName": "November",
+            "value": "18.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1919",
+            "period": "M10",
+            "periodName": "October",
+            "value": "18.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1919",
+            "period": "M09",
+            "periodName": "September",
+            "value": "17.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1919",
+            "period": "M08",
+            "periodName": "August",
+            "value": "17.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1919",
+            "period": "M07",
+            "periodName": "July",
+            "value": "17.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1919",
+            "period": "M06",
+            "periodName": "June",
+            "value": "16.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1919",
+            "period": "M05",
+            "periodName": "May",
+            "value": "16.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1919",
+            "period": "M04",
+            "periodName": "April",
+            "value": "16.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1919",
+            "period": "M03",
+            "periodName": "March",
+            "value": "16.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1919",
+            "period": "M02",
+            "periodName": "February",
+            "value": "16.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1919",
+            "period": "M01",
+            "periodName": "January",
+            "value": "16.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1918",
+            "period": "M12",
+            "periodName": "December",
+            "value": "16.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1918",
+            "period": "M11",
+            "periodName": "November",
+            "value": "16.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1918",
+            "period": "M10",
+            "periodName": "October",
+            "value": "16.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1918",
+            "period": "M09",
+            "periodName": "September",
+            "value": "15.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1918",
+            "period": "M08",
+            "periodName": "August",
+            "value": "15.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1918",
+            "period": "M07",
+            "periodName": "July",
+            "value": "15.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1918",
+            "period": "M06",
+            "periodName": "June",
+            "value": "14.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1918",
+            "period": "M05",
+            "periodName": "May",
+            "value": "14.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1918",
+            "period": "M04",
+            "periodName": "April",
+            "value": "14.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1918",
+            "period": "M03",
+            "periodName": "March",
+            "value": "14.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1918",
+            "period": "M02",
+            "periodName": "February",
+            "value": "14.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1918",
+            "period": "M01",
+            "periodName": "January",
+            "value": "14.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1917",
+            "period": "M12",
+            "periodName": "December",
+            "value": "13.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1917",
+            "period": "M11",
+            "periodName": "November",
+            "value": "13.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1917",
+            "period": "M10",
+            "periodName": "October",
+            "value": "13.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1917",
+            "period": "M09",
+            "periodName": "September",
+            "value": "13.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1917",
+            "period": "M08",
+            "periodName": "August",
+            "value": "13.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1917",
+            "period": "M07",
+            "periodName": "July",
+            "value": "12.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1917",
+            "period": "M06",
+            "periodName": "June",
+            "value": "13.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1917",
+            "period": "M05",
+            "periodName": "May",
+            "value": "12.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1917",
+            "period": "M04",
+            "periodName": "April",
+            "value": "12.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1917",
+            "period": "M03",
+            "periodName": "March",
+            "value": "12.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1917",
+            "period": "M02",
+            "periodName": "February",
+            "value": "12.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1917",
+            "period": "M01",
+            "periodName": "January",
+            "value": "11.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1916",
+            "period": "M12",
+            "periodName": "December",
+            "value": "11.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1916",
+            "period": "M11",
+            "periodName": "November",
+            "value": "11.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1916",
+            "period": "M10",
+            "periodName": "October",
+            "value": "11.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1916",
+            "period": "M09",
+            "periodName": "September",
+            "value": "11.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1916",
+            "period": "M08",
+            "periodName": "August",
+            "value": "10.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1916",
+            "period": "M07",
+            "periodName": "July",
+            "value": "10.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1916",
+            "period": "M06",
+            "periodName": "June",
+            "value": "10.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1916",
+            "period": "M05",
+            "periodName": "May",
+            "value": "10.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1916",
+            "period": "M04",
+            "periodName": "April",
+            "value": "10.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1916",
+            "period": "M03",
+            "periodName": "March",
+            "value": "10.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1916",
+            "period": "M02",
+            "periodName": "February",
+            "value": "10.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1916",
+            "period": "M01",
+            "periodName": "January",
+            "value": "10.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1915",
+            "period": "M12",
+            "periodName": "December",
+            "value": "10.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1915",
+            "period": "M11",
+            "periodName": "November",
+            "value": "10.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1915",
+            "period": "M10",
+            "periodName": "October",
+            "value": "10.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1915",
+            "period": "M09",
+            "periodName": "September",
+            "value": "10.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1915",
+            "period": "M08",
+            "periodName": "August",
+            "value": "10.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1915",
+            "period": "M07",
+            "periodName": "July",
+            "value": "10.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1915",
+            "period": "M06",
+            "periodName": "June",
+            "value": "10.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1915",
+            "period": "M05",
+            "periodName": "May",
+            "value": "10.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1915",
+            "period": "M04",
+            "periodName": "April",
+            "value": "10.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1915",
+            "period": "M03",
+            "periodName": "March",
+            "value": "9.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1915",
+            "period": "M02",
+            "periodName": "February",
+            "value": "10.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1915",
+            "period": "M01",
+            "periodName": "January",
+            "value": "10.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1914",
+            "period": "M12",
+            "periodName": "December",
+            "value": "10.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1914",
+            "period": "M11",
+            "periodName": "November",
+            "value": "10.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1914",
+            "period": "M10",
+            "periodName": "October",
+            "value": "10.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1914",
+            "period": "M09",
+            "periodName": "September",
+            "value": "10.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1914",
+            "period": "M08",
+            "periodName": "August",
+            "value": "10.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1914",
+            "period": "M07",
+            "periodName": "July",
+            "value": "10.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1914",
+            "period": "M06",
+            "periodName": "June",
+            "value": "9.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1914",
+            "period": "M05",
+            "periodName": "May",
+            "value": "9.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1914",
+            "period": "M04",
+            "periodName": "April",
+            "value": "9.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1914",
+            "period": "M03",
+            "periodName": "March",
+            "value": "9.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1914",
+            "period": "M02",
+            "periodName": "February",
+            "value": "9.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1914",
+            "period": "M01",
+            "periodName": "January",
+            "value": "10.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1913",
+            "period": "M12",
+            "periodName": "December",
+            "value": "10.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1913",
+            "period": "M11",
+            "periodName": "November",
+            "value": "10.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1913",
+            "period": "M10",
+            "periodName": "October",
+            "value": "10.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1913",
+            "period": "M09",
+            "periodName": "September",
+            "value": "10.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1913",
+            "period": "M08",
+            "periodName": "August",
+            "value": "9.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1913",
+            "period": "M07",
+            "periodName": "July",
+            "value": "9.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1913",
+            "period": "M06",
+            "periodName": "June",
+            "value": "9.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1913",
+            "period": "M05",
+            "periodName": "May",
+            "value": "9.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1913",
+            "period": "M04",
+            "periodName": "April",
+            "value": "9.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1913",
+            "period": "M03",
+            "periodName": "March",
+            "value": "9.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1913",
+            "period": "M02",
+            "periodName": "February",
+            "value": "9.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "1913",
+            "period": "M01",
+            "periodName": "January",
+            "value": "9.8",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

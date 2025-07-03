@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environments
+.env/
+.venv/
+env/
+venv/
+*.env
+
+# Logs
+logs/
+*.log
+
+# Airflow
+airflow.db
+airflow-webserver.pid
+*.sqlite
+*.db
+
+# Docker
+*.pid
+*.pid.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Secrets
+.env
+*.key
+*.pem
