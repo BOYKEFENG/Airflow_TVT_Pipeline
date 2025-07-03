@@ -3,7 +3,7 @@ import requests
 import json
 import pandas as pd
 
-API_KEY    = "650ef0e97a2c48fa93c4deb91e7eb5a9"
+API_KEY    = ""
 SERIES_ID  = "CUUR0000SA0"
 START_YEAR = "1913"
 END_YEAR   = "2025"
