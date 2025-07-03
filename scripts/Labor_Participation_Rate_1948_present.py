@@ -1,7 +1,7 @@
 import os
 import requests, json, csv
 
-API_KEY    = "650ef0e97a2c48fa93c4deb91e7eb5a9"
+API_KEY    = ""
 SERIES_ID  = "LNS11300000"
 START_YEAR = "1948"
 END_YEAR   = "2025"
